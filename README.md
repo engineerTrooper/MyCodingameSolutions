@@ -5,6 +5,7 @@ In this repository you will find all my solutions to [codingame](https://www.cod
 ## Easy
 - [ASCII Art | C#](./ASCII_Art.cs)
 - [Mars Lander Episode 1 | C++](./Mars_Lander_ep1.cpp)
+- [Logic Gates](./Logic_Gates.cs) 
 - [Onboarding | C#](./Onboarding.cs)
 - [Power Of Thor Episode 1 | C++](./Power_of_Thor_ep1.cpp)
 - [Snail Run | C#](./Snail_Run.cs)
