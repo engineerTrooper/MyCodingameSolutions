@@ -1,4 +1,4 @@
-# Codingame Solutions
+# Codingame.com Solutions
 
 In this repository you will find all my solutions to [codingame](https://www.codingame.com/) puzzles.
 
