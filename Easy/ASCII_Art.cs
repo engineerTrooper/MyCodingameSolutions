@@ -1,4 +1,4 @@
-//https://www.codingame.com/ide/puzzle/ascii-art
+//https://www.codingame.com/training/puzzle/ascii-art
 
 
 using System;

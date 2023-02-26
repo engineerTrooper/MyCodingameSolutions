@@ -1,4 +1,4 @@
-//https://www.codingame.com/ide/puzzle/7-segment-scanner
+//https://www.codingame.com/training/puzzle/7-segment-scanner
 
 using System;
 using System.Linq;

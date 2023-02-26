@@ -1,4 +1,4 @@
-//https://www.codingame.com/ide/puzzle/snail-run
+//https://www.codingame.com/training/puzzle/snail-run
 
 using System;
 using System.Linq;

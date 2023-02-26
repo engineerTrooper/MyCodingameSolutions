@@ -1,4 +1,4 @@
-//https://www.codingame.com/ide/puzzle/the-descent
+//https://www.codingame.com/training/puzzle/the-descent
 
 #include <iostream>
 #include <string>

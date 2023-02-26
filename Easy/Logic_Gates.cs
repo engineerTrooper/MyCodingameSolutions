@@ -1,4 +1,4 @@
-//https://www.codingame.com/ide/puzzle/logic-gates
+//https://www.codingame.com/training/puzzle/logic-gates
 
 using System;
 using System.Linq;
