@@ -18,7 +18,6 @@ void validate(int *data, int length, bool *flag)
         if(!(l== data[l-1]))
         {
             *flag = true;
-            //printf("flagstop=true;");
             break;
         }
     }
